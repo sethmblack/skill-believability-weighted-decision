@@ -3,8 +3,9 @@ name: believability-weighted-decision
 description: Make better group decisions by weighting opinions based on demonstrated competence rather than treating all views equally.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.3460
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - believability-weighted-decision-making
 - writing
